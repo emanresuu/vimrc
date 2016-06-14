@@ -4,6 +4,9 @@ set number "enable line numbers
 set relativenumber "enables relative line numbers
 set nowrap "disable text wrapping
 
+" set system clipboard as default
+set clipboard=unnamedplus
+
 set expandtab "insert space whenever the tab key is pressed
 set tabstop=3 "determines how many spaces are inserted when the tab key is pressed
 set shiftwidth=3 "the number of spaces an existing line will indent using >> and <<
